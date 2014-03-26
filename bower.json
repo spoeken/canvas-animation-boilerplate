@@ -1,0 +1,29 @@
+{
+  "name": "canvas-animation-boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/spoeken/canvas-animation-boilerplate",
+  "authors": [
+    "Mathias Stav <mathias@feed.no>"
+  ],
+  "description": "To quickly get started with canvas animation",
+  "main": "index.html",
+  "keywords": [
+    "animation",
+    "canvas",
+    "html5",
+    "javascript",
+    "prototyping"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animation-frame": "~0.1.6",
+    "normalize-css": "~3.0.0"
+  }
+}
